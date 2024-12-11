@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BVTMX3RqEomlb/fTE+MHCpXzbqUrEup2hbF3OgVkuuA=",
+  "Source": "encryptJSONs",
+  "BasePath": "_content/encryptJSONs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
